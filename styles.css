@@ -6,15 +6,19 @@ table,td{
 	text-align:center;
 }
 #t-image{
-	height:100px;
-	display:flex;
+	height:100%;
+	padding-left:50px;
+	padding-right:50px;
+	display:center;
 }
 .right{
 	text-align:right;
 }
 #green{
 	background-color:green;
+	height:10px;
 }
 #blue{
 	background-color:blue;
+	height:10px;
 }
