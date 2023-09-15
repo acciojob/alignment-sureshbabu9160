@@ -5,6 +5,16 @@ table,td{
 .centern{
 	text-align:center;
 }
+#t-image{
+	height:100px;
+	display:flex;
+}
 .right{
 	text-align:right;
+}
+#green{
+	background-color:green;
+}
+#blue{
+	background-color:blue;
 }
